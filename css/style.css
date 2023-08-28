@@ -51,3 +51,8 @@
 .start{
   text-align: start;
 }
+@media (max-width:978px){
+  div.col-sm-12 > img{
+    margin-bottom: 20px;
+  }
+}
